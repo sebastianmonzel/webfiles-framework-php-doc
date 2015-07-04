@@ -21,7 +21,7 @@ codeurl: 'https://github.com/sebastianmonzel/webfiles-framework-php'
 sections: [
     ['doc', 'Documentation'],
     ['tut', 'Tutorial'],
-    ['ref', 'Reference'],
+    ['ref', 'webfiles standard'],
     ['dev', 'Developers'],
     ['post', 'Posts']
 ]
