@@ -10,5 +10,6 @@ Welcome to the fascinating world of webfiles. Webfiles enable you to transfer an
 #### Links
 
 - api doc: http://sebastianmonzel.github.io/webfiles-framework-php-api/
-- github webfiles framework on php: https://github.com/sebastianmonzel/webfiles-framework-php/
+- webfiles framework for php on github: https://github.com/sebastianmonzel/webfiles-framework-php/
+- webfiles framework for php on packagist: https://packagist.org/packages/simpleserv/webfiles-framework
 - markdown syntax: https://guides.github.com/features/mastering-markdown/
