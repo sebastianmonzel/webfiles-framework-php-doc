@@ -3,12 +3,9 @@ layout: default
 title: "Home"
 ---
 
-
-
-
 ### Hi there.
 
-Welcome to the fascinating world of webfiles. 
+Welcome to the fascinating world of webfiles.  Webfiles enable you to transfer data entities much more easier.
 
 
 #### temp
@@ -22,7 +19,7 @@ echo('test');
 
 #### Links
 
-api doc: http://sebastianmonzel.github.io/webfiles-framework-php-api/
+api doc: http://sebastianmonzel.github.io/webfiles-framework-php-api/<br />
 github: https://github.com/sebastianmonzel/webfiles-framework-php/
 
 `code or filenames: _config.yml`
