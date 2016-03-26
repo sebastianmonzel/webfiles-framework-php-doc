@@ -21,7 +21,7 @@ codeurl: 'https://github.com/sebastianmonzel/webfiles-framework-php'
 sections: [
     ['def', 'webfiles definitions'],
     ['fra', 'webfiles framework'],
-    ['stor',"webfiles datastores"]
+    ['stor',"webfiles datastores"],
     ['dev', 'developers']
 ]
 
