@@ -11,4 +11,4 @@ Datastores are eased to give access to webfiles in a standarized way.
 ### Different kinds of datastores
 
 ### Implementation
-All datastores extends the implementation of `MAbstractDatastore` ([API-Referenz](http://sebastianmonzel.github.io/webfiles-framework-php-api/class-simpleserv.webfilesframework.core.datastore.MAbstractDatastore.html)).
+All datastores extends the implementation of `MAbstractDatastore` ([API-reference](http://sebastianmonzel.github.io/webfiles-framework-php-api/class-simpleserv.webfilesframework.core.datastore.MAbstractDatastore.html)).
