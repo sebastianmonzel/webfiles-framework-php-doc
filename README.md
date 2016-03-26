@@ -1,5 +1,5 @@
 
-webfiles-framework-php-doc
+webfiles-framework-doc
 
 http://sebastianmonzel.github.io/webfiles-framework-php-doc/
 
