@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "database"
+title: "database datastore"
 category: stor
 date: 2015-07-04 14:26:25
 ---
