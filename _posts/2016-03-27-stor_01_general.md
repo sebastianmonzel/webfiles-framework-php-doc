@@ -9,3 +9,6 @@ date: 2015-07-04 14:26:25
 Datastores are eased to give access to webfiles in a standarized way.
 
 ### Different kinds of datastores
+
+### Implementation
+All datastores implements the interface of MAbstractDatastore ( )
