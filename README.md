@@ -1,1 +1,1 @@
-development takes part under branch gh-pages
+development takes place under branch gh-pages
