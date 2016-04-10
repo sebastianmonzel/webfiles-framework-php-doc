@@ -19,3 +19,4 @@ All datastores extends the implementation of `MAbstractDatastore` ([API-referenc
 
 ### transfer data between different datastores
 
+`MDatastoreTransfer` ([API-reference](http://sebastianmonzel.github.io/webfiles-framework-php-api/class-simpleserv.webfilesframework.core.datastore.MDatastoreTransfer.html)).
