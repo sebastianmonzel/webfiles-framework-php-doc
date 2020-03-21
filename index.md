@@ -6,7 +6,7 @@ order: 10
 
 ### Hi there.
 
-Welcome to the fascinating world of webfiles. Webfiles enable you to interact easier with data and transfer easier data.
+Welcome to the fascinating world of webfiles. Webfiles enable you to interact easier with data and transfer easier data. Webfiles framework provides functionality define general datastructures and read and save them to so called datastores.
 
 #### Links
 
