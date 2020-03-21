@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "create datastore"
-category: stor
+category: webfilesdatastores
 date: 2015-07-04 14:26:25
 ---
 
