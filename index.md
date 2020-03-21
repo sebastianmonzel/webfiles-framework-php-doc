@@ -8,6 +8,9 @@ order: 10
 
 Webfiles enable you to interact easier with data and transfer easier data. Webfiles framework provides functionality define general datastructures and read and save them to so called datastores.
 
+#### Install dependency via composer
+`composer require webfiles-framework/framework`
+
 #### Links
 
 - api doc: [http://sebastianmonzel.github.io/webfiles-framework-php-api/](http://sebastianmonzel.github.io/webfiles-framework-php-api/)
