@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "create datastore"
+title: "create a datastore"
 category: webfilesdatastores
 date: 2015-07-04 14:26:25
 order: 50
