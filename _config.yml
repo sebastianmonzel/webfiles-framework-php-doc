@@ -19,10 +19,10 @@ codeurl: 'https://github.com/sebastianmonzel/webfiles-framework-php'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['webf', 'webfiles'],
-    ['fra', 'webfiles framework'],
-    ['stor',"webfiles datastores"],
-    ['dev', 'developers']
+    ['webfiles', 'webfiles'],
+    ['webfilesframework', 'webfiles framework'],
+    ['webfilesdatastores',"webfiles datastores"],
+    ['developers', 'developers']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific
