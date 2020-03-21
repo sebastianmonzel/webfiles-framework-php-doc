@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "home"
+order: 10
 ---
 
 ### Hi there.
