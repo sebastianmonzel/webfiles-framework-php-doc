@@ -13,4 +13,4 @@ Create a new datastore as packagist package.
 Following precond
 Datastore has to extend the MAbstractDatastore. 
 
-TODO sample package to download and adapt
+sample datastore is defined in: https://github.com/sebastianmonzel/datastoresample-php
