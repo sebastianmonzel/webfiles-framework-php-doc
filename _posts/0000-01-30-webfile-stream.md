@@ -7,3 +7,5 @@ order: 30
 ---
 
 a webfile stream encapsulates webfiles into an list.
+
+[API](http://sebastianmonzel.github.io/webfiles-framework-php-api/class-webfilesframework.core.datastore.types.database.MDatabaseDatastore.html)
