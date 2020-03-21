@@ -8,7 +8,7 @@ order: 10
 
 With webfile definitions you can define the structure of webfiles stored and read from webfile datastores.
 
-Webfile defitions are represented via classes in php. You define a class which extends the `MWebfile` (API) class in order to get the functionality. 
+Webfile defitions are represented via classes in php. You define a class which extends the `MWebfile` ([API]( http://sebastianmonzel.github.io/webfiles-framework-php-api/class-webfilesframework.core.datasystem.file.format.MWebfile.html)) class in order to get the functionality. 
 
 There are two main purposes to define webfiles:
  - for generic datatores: store and read data from generic datastores 
