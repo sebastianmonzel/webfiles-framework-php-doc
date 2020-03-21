@@ -6,8 +6,4 @@ date: 2015-07-05 09:23:25
 order: 30
 ---
 
-### defining webfiles
-
-### write webfiles in datastores
-
-### access webfiles in datastores
+a webfile stream encapsulates webfiles into an list.
