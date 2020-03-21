@@ -6,4 +6,4 @@ date: 2015-07-05 09:23:25
 order: 10
 ---
 
-some getting started instructions you can find in the git repo README.md - [https://github.com/sebastianmonzel/webfiles-framework-php/blob/develop/README.md]
+some getting started instructions you can find in the git repo README.md: (Link)[https://github.com/sebastianmonzel/webfiles-framework-php/blob/develop/README.md]
