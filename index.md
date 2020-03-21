@@ -6,7 +6,7 @@ order: 10
 
 ### Hi there.
 
-Welcome to the fascinating world of webfiles. Webfiles enable you to transfer and interact with data entities much more easier.
+Welcome to the fascinating world of webfiles. Webfiles enable you to interact easier with data and transfer easier data.
 
 #### Links
 
