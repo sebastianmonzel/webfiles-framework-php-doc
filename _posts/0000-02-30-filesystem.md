@@ -10,6 +10,11 @@ accesses webfiles persisted in one folder in an xml representation. file ending 
 
 [API](http://sebastianmonzel.github.io/webfiles-framework-php-api/class-webfilesframework.core.datastore.types.directory.MDirectoryDatastore.html)
 
+
+#### supported datatypes
+ - data structured by webfile definitions
+ - image support jpg
+
 #### normalizing datastore
 
 What happens on normalization?
