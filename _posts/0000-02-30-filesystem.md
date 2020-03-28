@@ -13,7 +13,7 @@ Accesses webfiles persisted in a folder. Webfile data is saved in xml representa
 
 #### supported datatypes
  - data structured by webfile definitions
- - image support jpg
+ - basic image support jpg
 
 #### normalizing datastore
 
