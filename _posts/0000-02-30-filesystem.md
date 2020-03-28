@@ -11,6 +11,8 @@ accesses webfiles persisted in one folder in an xml representation. file ending 
 [API](http://sebastianmonzel.github.io/webfiles-framework-php-api/class-webfilesframework.core.datastore.types.directory.MDirectoryDatastore.html)
 
 #### normalizing datastore
+
 What happens on normalization?
- - 
- -
+
+ - .
+ - .
