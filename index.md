@@ -13,7 +13,9 @@ Webfiles enable you to interact easier with data and transfer easier data. Webfi
 (requires PHP 7.2 or higher)
 
 #### Additional Links
-- github: [https://github.com/sebastianmonzel/webfiles-framework-php/](https://github.com/sebastianmonzel/webfiles-framework-php/)
+- github:
+   - php: [https://github.com/sebastianmonzel/webfiles-framework-php/](https://github.com/sebastianmonzel/webfiles-framework-php/)
+   - documentation: [https://github.com/sebastianmonzel/webfiles-framework-php-doc](https://github.com/sebastianmonzel/webfiles-framework-php-doc)
 - packagist: [https://packagist.org/packages/webfiles-framework/framework](https://packagist.org/packages/webfiles-framework/framework)
 - api documentation: [http://sebastianmonzel.github.io/webfiles-framework-php-api/](http://sebastianmonzel.github.io/webfiles-framework-php-api/)
 - markdown syntax (to easily extend this documentation :) ): [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
