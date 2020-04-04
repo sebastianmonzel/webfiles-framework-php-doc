@@ -20,5 +20,5 @@ database datastore encapsulates webfile access to database. database tables are 
 
 What happens on normalization?
 
- - .
- - .
+ - create a metadatanormalization normalization table with all webfile ids, its types and timestamps
+ - usecase: easier access to latest webfiles sorted by timestamp
