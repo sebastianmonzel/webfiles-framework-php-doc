@@ -6,7 +6,7 @@ date: 2015-07-05 09:23:25
 order: 10
 ---
 
-With webfile definitions you can define the structure of webfiles stored and read from webfile datastores. Every webfile contains of an id, a time and other selfdefined attributes suitable for the current webfile type.
+With webfile definitions you can define the structure of webfiles stored and read from webfile datastores. Every webfile contains of an id, a time and other selfdefined attributes suitable for the current webfile definition.
 
 Webfile defitions are represented via classes in php. You define a class which extends the `MWebfile` ([API]( http://sebastianmonzel.github.io/webfiles-framework-php-api/class-webfilesframework.core.datasystem.file.format.MWebfile.html)) class in order to get the functionality. 
 
