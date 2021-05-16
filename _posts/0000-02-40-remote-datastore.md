@@ -34,7 +34,7 @@ returns
 POST
 data encoded with: RFC 1738
 param "method": retrieveWebfiles
-param "": 
+param "template": template to search for as webfile / xml
 
 
 returns
@@ -52,7 +52,6 @@ storeWebfile
 data encoded with: RFC 1738
 param "method": storeWebfile
 param "webfile": webfile to save as xml
-payload:
 
 
 returns
