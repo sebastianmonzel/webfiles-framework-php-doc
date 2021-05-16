@@ -10,4 +10,4 @@ order: 40
 
 #### Functionality
 
-To access datastores on other servers, datastores can be exposed as remote datastores.
+To access datastores on other servers, datastores can be exposed as remote datastores. test
