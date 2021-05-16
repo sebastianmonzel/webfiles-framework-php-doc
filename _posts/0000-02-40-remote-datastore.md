@@ -15,10 +15,10 @@ To access datastores on other servers, datastores can be exposed as remote datas
 ### API to access and store webfiles
 
 #### read webfiles
-POST
-data encoded with: RFC 1738
-param "method": retrieveWebfiles
-param "": 
+POST<br />
+data encoded with: RFC 1738<br />
+param "method": retrieveWebfiles<br />
+param "": <br />
 
 
 returns
@@ -31,10 +31,10 @@ returns
 ````
 
 #### search by template
-POST
-data encoded with: RFC 1738
-param "method": retrieveWebfiles
-param "template": template to search for as webfile / xml
+POST<br />
+data encoded with: RFC 1738<br />
+param "method": retrieveWebfiles<br />
+param "template": template to search for as webfile / xml<br />
 
 
 returns
