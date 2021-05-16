@@ -34,3 +34,9 @@ payload:
 data encoded with: RFC 1738
 
 returns
+````
+  <webfile>
+    <id></id>
+    <text></text>
+  </webfile>
+````
