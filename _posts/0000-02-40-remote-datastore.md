@@ -8,7 +8,17 @@ order: 40
 
 [API](http://sebastianmonzel.github.io/webfiles-framework-php-api/class-webfilesframework.core.datastore.types.remote.MRemoteDatastore.html)
 
-#### Functionality
+### Functionality
 
 To access datastores on other servers, datastores can be exposed as remote datastores.
 
+### API to access and store webfiles
+
+#### read webfiles
+{REMOTE_DATASTORE_ENDPOINT}/
+returns:
+
+
+#### save webfile
+{REMOTE_DATASTORE_ENDPOINT}/
+payload:
