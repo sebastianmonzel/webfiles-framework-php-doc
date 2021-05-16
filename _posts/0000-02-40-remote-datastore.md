@@ -15,9 +15,17 @@ To access datastores on other servers, datastores can be exposed as remote datas
 ### API to access and store webfiles
 
 #### read webfiles
+searchByTemplate
+method: POST
+data encoded with: RFC 1738
 returns:
 
 
 
 #### save webfile
+storeWebfile
+method: POST
 payload:
+data encoded with: RFC 1738
+
+returns
