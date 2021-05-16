@@ -47,11 +47,11 @@ returns
 ````
 
 #### save webfile
-POST
-storeWebfile
-data encoded with: RFC 1738
-param "method": storeWebfile
-param "webfile": webfile to save as xml
+POST<br />
+storeWebfile<br />
+data encoded with: RFC 1738<br />
+param "method": storeWebfile<br />
+param "webfile": webfile to save as xml<br />
 
 
 returns
