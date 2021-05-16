@@ -16,7 +16,7 @@ To access datastores on other servers, datastores can be exposed as remote datas
 
 #### read webfiles
 POST<br />
-data encoded with: RFC 1738<br />
+data encoded with: RFC 1738, as array:<br />
 param "method": retrieveWebfiles<br />
 param "": <br />
 
@@ -32,7 +32,7 @@ returns
 
 #### search by template
 POST<br />
-data encoded with: RFC 1738<br />
+data encoded with: RFC 1738, as array:<br />
 param "method": retrieveWebfiles<br />
 param "template": template to search for as webfile / xml<br />
 
@@ -48,8 +48,7 @@ returns
 
 #### save webfile
 POST<br />
-storeWebfile<br />
-data encoded with: RFC 1738<br />
+data encoded with: RFC 1738, as array:<br />
 param "method": storeWebfile<br />
 param "webfile": webfile to save as xml<br />
 
