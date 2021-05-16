@@ -19,7 +19,9 @@ POST
 data encoded with: RFC 1738
 param "method": retrieveWebfiles
 param "": 
-returns:
+
+
+returns
 ````
 <webfiles>
   <webfile>
@@ -33,7 +35,9 @@ POST
 data encoded with: RFC 1738
 param "method": retrieveWebfiles
 param "": 
-returns:
+
+
+returns
 ````
 <webfiles>
   <webfile>
@@ -49,6 +53,7 @@ data encoded with: RFC 1738
 param "method": storeWebfile
 param "webfile": webfile to save as xml
 payload:
+
 
 returns
 ````
