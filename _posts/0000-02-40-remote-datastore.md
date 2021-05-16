@@ -10,13 +10,14 @@ order: 40
 
 ### Functionality
 
-To access datastores on other servers, datastores can be exposed as remote datastores.
+To access datastores on other servers, datastores can be exposed as remote datastores. If you use PHP as server and client then you can use the predefined implementations.
 
 ### API to access and store webfiles
 
 #### read webfiles
 {REMOTE_DATASTORE_ENDPOINT}/
 returns:
+
 
 
 #### save webfile
