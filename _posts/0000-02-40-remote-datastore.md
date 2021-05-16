@@ -15,11 +15,11 @@ To access datastores on other servers, datastores can be exposed as remote datas
 ### API to access and store webfiles
 
 #### read webfiles
-{REMOTE_DATASTORE_ENDPOINT}/
+REMOTE_DATASTORE_ENDPOINT/
 returns:
 
 
 
 #### save webfile
-{REMOTE_DATASTORE_ENDPOINT}/
+REMOTE_DATASTORE_ENDPOINT/
 payload:
