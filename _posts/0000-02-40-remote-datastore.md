@@ -19,8 +19,13 @@ searchByTemplate
 method: POST
 data encoded with: RFC 1738
 returns:
-
-
+``
+<webfiles>
+  <webfile>
+    <text></text>
+  </webfile>
+</webfiles>
+``
 
 #### save webfile
 storeWebfile
