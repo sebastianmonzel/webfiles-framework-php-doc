@@ -22,7 +22,7 @@ sections: [
     ['webfiles', 'webfiles'],
     ['webfilesframework', 'webfiles framework'],
     ['webfilesdatastores',"webfiles datastores"],
-    ['visualization',visualization']
+    ['visualization',visualization'],
     ['developers', 'developers']
 ]
 
