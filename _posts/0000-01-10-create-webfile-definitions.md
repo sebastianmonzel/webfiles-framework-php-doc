@@ -15,11 +15,11 @@ There are two main purposes to define webfiles:
  - for specific selfdefined datastores: create webfile defitions to persist and read custom data to your defined datastores
  
  
-Sample webfile defition:
+## Sample webfile definition
 
 
 
-Possible Datatypes:
+## Possible Datatypes
 datatypes which can be used to defined webfile definitions:
 
 | identifier | datatype     |
