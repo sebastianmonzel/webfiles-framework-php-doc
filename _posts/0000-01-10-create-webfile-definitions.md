@@ -32,5 +32,45 @@ datatypes which can be used to defined webfile definitions:
 ### Sample webfile definition
 
 ````
-sample
+use webfilesframework\core\datasystem\file\format\MWebfile;
+
+class Contact extends MWebfile
+{
+
+    private $m_sFirstname; // attributes has to be in the given scheme - all attributes with "m_" as prefix gets persisted - "s" defines the type of the attribute (string)
+    private $m_sLastname;
+    private $m_sCity;
+
+    
+    public function setFirstname($m_sFirstname)
+    {
+        $this->m_sFirstname = $m_sFirstname;
+    }
+    
+    public function getFirstname()
+    {
+        return $this->m_sFirstname;
+    }
+
+    public function setLastname($m_sLastname)
+    {
+        $this->m_sLastname = $m_sLastname;
+    }
+    
+    public function getFirstname()
+    {
+        return $this->m_sFirstname;
+    }
+
+    public function setCity($m_sCity)
+    {
+        $this->m_sCity = $m_sCity;
+    }
+    
+    public function getCity($m_sCity)
+    {
+        $this->m_sCity = $m_sCity;
+    }
+
+}
 ````
