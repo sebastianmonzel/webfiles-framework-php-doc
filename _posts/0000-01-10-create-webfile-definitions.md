@@ -13,11 +13,6 @@ Webfile defitions are represented via classes in php. You define a class which e
 There are two main purposes to define webfiles:
  - for generic datatores: store and read data from generic datastores 
  - for specific selfdefined datastores: create webfile defitions to persist and read custom data to your defined datastores
- 
- 
-### Sample webfile definition
-
-
 
 ### Possible Datatypes
 datatypes which can be used to defined webfile definitions:
@@ -32,3 +27,10 @@ datatypes which can be used to defined webfile definitions:
 | i          | integer      |
 | f          | float        |
 | o          | object       |
+
+
+### Sample webfile definition
+
+````
+sample
+````
